@@ -54,7 +54,7 @@ After joining the data, it computes the weighted averages for download and uploa
 Finally, it creates plots to visualize download speeds at different administrative levels. The plots are saved as JPEG images.
 
 <center>
-<img src="./speed_lac_municipality.jpg" width="500">
+<img src="./Outputs/speed_lac_municipality.jpg" width="700">
 </center>
 
 ## Next steps 
