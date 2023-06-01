@@ -1,0 +1,12 @@
+data/**
+.env
+.env.swp
+.ipynb_checkpoints/
+**__pycache__
+*.ini
+*.pdf
+*.txt
+*.csv
+*.dcf
+README.html
+
