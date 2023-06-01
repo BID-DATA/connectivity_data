@@ -60,6 +60,12 @@ Finally, it creates plots to visualize download speeds at different administrati
 ## Next steps 
 ---
 
+| Name                | Task                                                                             | Status  |
+|---------------------|----------------------------------------------------------------------------------|---------|
+| Generalize Code     | Make the code applicable for any country, quarter, and type of connectivity.     | Pending |
+| Add Mobile          | Incorporate mobile connectivity data in the analysis.                            | Pending |
+| Improve Efficiency  | Work on optimizing the code to reduce the running time.                          | Pending |
+| Generate Table      | Implement functionality to generate a distinct table for each type of analysis.  | Pending |
 
 
 ### Authors
